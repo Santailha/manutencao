@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+
+.logo {
+    background-color: #3b1964;
+}
+
+.logoft {
+    width: 250px;
+    height: auto;
+}
+
+.txt {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #8c68b8;
+}
